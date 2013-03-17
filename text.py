@@ -1,4 +1,4 @@
-__author__ = 'luosmT'
+__author__ = 'luosm'
 
 import time
 import datetime
