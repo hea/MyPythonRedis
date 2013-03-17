@@ -14,7 +14,7 @@ if __name__ == '__main__':
     #print ('key value is %s', r.get('key'))
 
 
-    # create pipeline
+    # create pipeline##
     pipe = r.pipeline()
     pipe.set('pipeTest', 'pipeValue')
     print pipe.get('pipeTest')
